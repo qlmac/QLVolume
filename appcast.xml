@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>QLVolume Pro</title>
+        <item>
+            <title>0.2.9</title>
+            <pubDate>Wed, 18 Nov 2026 18:12:47 +0800</pubDate>
+            <link>https://github.com/qlmac/QLVolume</link>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/qlmac/QLVolume/releases/download/v0.2.9-58/QLVolume-0.2.9-58-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/qlmac/QLVolume/releases/download/v0.2.9-58/QLVolume-0.2.9-58-Universal.zip" length="4455199" type="application/octet-stream" sparkle:edSignature="1Caa0DanM6PJ9LNsjsoXwIf1IB9pcXq2OTiHgdAh4ckjcRulT8YocqlzBeMcM6PPyjLFlhKfzX155gGf7NGcCg=="/>
+        </item>
+    </channel>
+</rss>
