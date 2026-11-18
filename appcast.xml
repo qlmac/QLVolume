@@ -3,14 +3,14 @@
     <channel>
         <title>QLVolume Pro</title>
         <item>
-            <title>0.2.10</title>
-            <pubDate>Wed, 18 Nov 2026 18:33:09 +0800</pubDate>
+            <title>0.2.11</title>
+            <pubDate>Wed, 18 Nov 2026 18:36:46 +0800</pubDate>
             <link>https://github.com/qlmac/QLVolume</link>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/qlmac/QLVolume/releases/download/v0.2.10-59/QLVolume-0.2.10-59-Universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/qlmac/QLVolume/releases/download/v0.2.10-59/QLVolume-0.2.10-59-Universal.zip" length="4489995" type="application/octet-stream" sparkle:edSignature="qXY1Xe/D4bWGkTmBGwRmrftQbdgQHFqkAEU5PhsLt6inGfOC+knleEAwtA/OmC9O0gKZogEDbzRSlCxfyQ3WAw=="/>
+            <sparkle:releaseNotesLink>https://github.com/qlmac/QLVolume/releases/download/v0.2.11-60/QLVolume-0.2.11-60-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/qlmac/QLVolume/releases/download/v0.2.11-60/QLVolume-0.2.11-60-Universal.zip" length="4488404" type="application/octet-stream" sparkle:edSignature="svf5R5GMQnzIHkCuzhQf56aGAU06IhMM5Y4jDDgroHnnyDqtQblNzFIPUexQ56thp6NoazMhjUkoRY32M3rmCQ=="/>
         </item>
     </channel>
 </rss>
